@@ -19,5 +19,5 @@ android {
 
 dependencies {
     implementation ('com.github.tencent-bugly:crashreport:1.0.2')
-//    api 'com.tencent.bugly:crashreport:latest.release'
+    api 'com.tencent.bugly:crashreport:latest.release'
 }
