@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/appframework-middle-library.iml" filepath="$PROJECT_DIR$/appframework-middle-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appframework-middle-library.iml" filepath="$PROJECT_DIR$/appframework-middle-library.iml" group="appframework-middle-library" />
+      <module fileurl="file://$PROJECT_DIR$/app/appframework-middle-library-app.iml" filepath="$PROJECT_DIR$/app/appframework-middle-library-app.iml" group="appframework-middle-library/app" />
+      <module fileurl="file://$PROJECT_DIR$/library/appframework-middle-library-library.iml" filepath="$PROJECT_DIR$/library/appframework-middle-library-library.iml" group="appframework-middle-library/library" />
       <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
     </modules>
   </component>
