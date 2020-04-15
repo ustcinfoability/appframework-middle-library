@@ -18,6 +18,6 @@ android {
 }
 
 dependencies {
-    api ('com.github.tencent-bugly:crashreport:2.0.0')
+    api ('com.github.tencent-bugly:crashreport:2.0.1')
     api 'com.tencent.bugly:crashreport:latest.release'
 }
